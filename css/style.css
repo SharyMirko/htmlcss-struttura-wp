@@ -11,7 +11,15 @@
 
 .menu {
     width: 90%;
-    height: 100px;
+    height: 50px;
     margin-top: 1em;
     background-color: aqua;
+}
+
+.main-header {
+    width: 90%;
+    height: 150px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    background-color: blueviolet;
 }
